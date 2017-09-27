@@ -1,0 +1,14 @@
+# Pycharm files
+.idea/
+*.pyc
+
+
+
+
+
+
+#TestResults
+ dirctory
+TestResults/**
+
+
